@@ -1,0 +1,15 @@
+.slick-list {
+  margin : 0 -24px
+}
+
+.slick-prev {
+  left: -49px
+}
+
+.slick-next {
+  right: -49px
+}
+
+.slick-slide {
+  padding: 0 6px 12px
+}
