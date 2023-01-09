@@ -1,0 +1,33 @@
+/* .slick-list {
+  margin : 0 -24px
+}
+
+.slick-prev {
+  left: -49px
+}
+
+.slick-next {
+  right: -49px
+}
+
+.slick-slide {
+  padding: 0 6px 12px
+} */
+
+.slick-arrow {
+  z-index: 54;
+  width: 100px;
+  height: 100%;
+}
+
+.slick-arrow svg {
+  margin: auto
+}
+
+.slick-next {
+  background-image: linear-gradient( to right,rgb(255 255 255 / 0),white 40px);
+}
+
+.slick-prev {
+  background-image: linear-gradient( to left,rgb(255 255 255 / 0),white 40px);
+}
