@@ -10,6 +10,9 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <div>
+      <Head>
+        <title>Hotels and Co</title>
+      </Head>
       <Navbar />
       <Categories />
       <div
