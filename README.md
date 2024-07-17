@@ -1,16 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# [HotelsnCo](https://hotelsnco.vercel.app)
+
+This project is an Airbnb clone built with [Next.js](https://nextjs.org/), bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+To get started with the development server, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+1. Install the dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Run the development server:
+   ```bash
+    npm run dev
+    # or
+    yarn dev
+3. Open http://localhost:3000 in your browser to see the application.
+
+## Editing
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
